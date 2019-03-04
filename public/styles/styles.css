@@ -1,0 +1,15 @@
+Thead > tr {
+    Background-Color: #ff9623;
+    border: 1px black;
+}
+
+tbody > tr {
+    background-color: white;
+    border: 1px black;
+}
+
+body {
+    background-color: #cccccc;
+}
+
+
